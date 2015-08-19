@@ -1,0 +1,54 @@
+/* open sans 300, 400, 600, 700 */
+
+/* home page */
+
+/* navigation */
+
+.logo {
+	height: 72px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+/* hero image */
+
+.hero-image {
+  height: 700px;
+  width: 100%;
+  background-image:url("https://raw.githubusercontent.com/JessicaMeyer/jlmfinancial/master/img/skyline.jpg");
+  background-repeat: no-repeat;;
+  background-size: cover;
+  background-position: center;
+  -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+
+.hero-wording {
+	margin-top: 35px;
+}
+
+.hero-title {
+  color: #FFFFFF;
+  font-size: 25px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+}
+
+.hero-text {
+  color: #FFFFFF;
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  width: 100%;
+}
+
+#hero-button {
+  border: 1px solid #FFFFFF;
+  background-color: #FFFFFF;
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  text-align: center;
+  color: #DC2028;
+}
