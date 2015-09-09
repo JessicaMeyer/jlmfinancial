@@ -64,6 +64,7 @@
 }
 
 /* portfolio section */
+/* link list */
 
 .portfolio-section {
 	background-color: #f8f8f8;
@@ -76,28 +77,8 @@
   font-weight: 600;
   color: #0a0a0a;
   font-size: 21px;
+  padding-top: 25px;
 }
-
-.affiliate-title {
-  background-color: white;
-  color: #DC2028;
-  text-align: center;
-  font-family: 'Open Sans', sans-serif;
-  font-weight: 600;
-  margin-bottom: 5px;
-  font-size: 20px;
-}
-
-.affiliate-text {
-  background-color: white;
-  font-family: 'Open Sans', sans-serif;
-  font-weight: 400;
-  line-height: 30px;
-}
-
-span {
-  font-weight: 600
-} 
 
 .link-word {
   font-family: 'Open Sans', sans-serif;
@@ -118,8 +99,78 @@ a.link-list:hover {
 
 a:hover, a:focus {
   color: #dc2028;
+  text-decoration: underline;
 }
 
+.dot {
+  padding: 9px;
+}
 
+/* portfolio section */
+/* content list from links in jlm affiliate section */
 
+.affiliate-title {
+  background-color: white;
+  color: #DC2028;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  margin-bottom: 5px;
+  font-size: 20px;
+}
+
+.affiliate-text {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  line-height: 30px;
+  margin-top: 30px;
+}
+
+span {
+  font-weight: 600;
+} 
+
+.jet-picture {
+   margin-top: 30px;
+}
+
+.senior-picture {
+  width: 455px;
+  height: 307px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+/* footer */
+
+.footer-section {
+  background-color: #dc2028;
+}
+
+.text-right {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  color: #ffffff;
+}
+
+.footer-title {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  color: #ffffff;
+}
+
+.footer-text-left {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  color: #ffffff;
+  line-height: 8px;
+}
+
+.left-footer {
+  margin-top: 30px;
+}
+
+.right-footer {
+  margin-top: 30px;
+}
 
