@@ -106,6 +106,7 @@ a:hover, a:focus {
   padding: 9px;
 }
 
+/* portfolio section */
 /* content list from links in jlm affiliate section */
 
 .affiliate-title {
@@ -140,4 +141,36 @@ span {
   margin-bottom: 30px;
 }
 
+/* footer */
+
+.footer-section {
+  background-color: #dc2028;
+}
+
+.text-right {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  color: #ffffff;
+}
+
+.footer-title {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  color: #ffffff;
+}
+
+.footer-text-left {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  color: #ffffff;
+  line-height: 8px;
+}
+
+.left-footer {
+  margin-top: 30px;
+}
+
+.right-footer {
+  margin-top: 30px;
+}
 
