@@ -181,10 +181,12 @@ span {
 
 .left-footer {
   margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 .right-footer {
   margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 /* copyright */
@@ -210,3 +212,17 @@ span {
 }
 
 
+/* acquisitions page */
+/* acquisition section */
+
+#acquisition-title {
+  margin-top: 40px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+
+.tombstone {
+  margin-bottom: 30px;
+}
