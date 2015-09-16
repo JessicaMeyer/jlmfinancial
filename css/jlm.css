@@ -179,6 +179,21 @@ span {
   line-height: 8px;
 }
 
+.footer-text-r {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  color: #ffffff;
+  display: block;
+  margin-top: 15px;
+  float: right;
+  clear: both;
+}
+
+a.footer-text-r {  /*need to change links for this to work */
+  color: #ffffff;
+  text-decoration: none;
+}
+
 .left-footer {
   margin-top: 30px;
   margin-bottom: 30px;
