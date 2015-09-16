@@ -7,9 +7,10 @@
 
 .logo {
 	height: 70px;
-	margin-top: 12px;
-	margin-bottom: 12px;
+  display: block;
+  margin: 15px auto;
 }
+ 
 
 /* hero image */
 
@@ -179,6 +180,21 @@ span {
   line-height: 8px;
 }
 
+.footer-text-r {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  color: #ffffff;
+  display: block;
+  margin-top: 15px;
+  float: right;
+  clear: both;
+}
+
+a.footer-text-r {  /*need to change links for this to work */
+  color: #ffffff;
+  text-decoration: none;
+}
+
 .left-footer {
   margin-top: 30px;
   margin-bottom: 30px;
@@ -224,5 +240,40 @@ span {
 }
 
 .tombstone {
-  margin-bottom: 30px;
+  display: block;
+  margin: 15px auto;
 }
+
+
+/* team page */ 
+
+#team-title {
+  margin-top: 40px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+
+.name_title {
+  margin-top: 30px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+  color: #dc2028;
+}
+
+.bio {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  color: #0a0a0a;
+  line-height: 30px;
+}
+
+.email_icon {
+  padding-left: 5px;
+  height: 20px;
+}
+
+
