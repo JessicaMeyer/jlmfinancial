@@ -235,6 +235,12 @@ a.footer-text-r {  /*need to change links for this to work */
   margin-bottom: 30px;
 }
 
+a.mailto {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  color: #ffffff;
+}
+
 /* copyright */
 
 .copyright-text-left {
