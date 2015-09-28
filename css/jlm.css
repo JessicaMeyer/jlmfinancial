@@ -180,6 +180,11 @@ span {
   margin-top: 30px;
 }
 
+.pf-tombstones {
+  display: block;
+  margin: 15px auto;
+}
+
 /* footer */
 
 .footer-section {
