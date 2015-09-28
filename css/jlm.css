@@ -71,14 +71,13 @@
 	background-color: #f8f8f8;
 }
 
-
 .portfolio-section-title {
   text-align: center;
   font-family: 'Open Sans', sans-serif;
-  font-weight: 600;
+  font-weight: 700;
   color: #0a0a0a;
-  font-size: 21px;
-  padding-top: 25px;
+  font-size: 24px;
+  padding-top: 30px;
 }
 
 .link-word {
@@ -87,11 +86,13 @@
   color: #0a0a0a;
   font-size: 16px;
   padding-right: 5px;
+  display: inline-block;
+  margin: 15px auto;
 }
 
 #link-section {
-  margin-top: 40px;
-  margin-bottom: 40px;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 a.link-list:hover {
@@ -110,7 +111,7 @@ a:hover, a:focus {
 /* portfolio section */
 /* content list from links in jlm affiliate section */
 
-.affiliate-title {
+/*.affiliate-title {
   background-color: white;
   color: #DC2028;
   text-align: center;
@@ -118,13 +119,24 @@ a:hover, a:focus {
   font-weight: 600;
   margin-bottom: 5px;
   font-size: 20px;
+}*/
+
+.portfolio-wrapper {
+  margin-bottom: 30px;
+}
+
+#affiliate-title {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  font-size: 22px;
+  color: #000000;
 }
 
 .affiliate-text {
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
   line-height: 30px;
-  margin-top: 30px;
+  margin-top: 15px;
   color: #0a0a0a;
 }
 
@@ -136,9 +148,15 @@ span {
   font-weight: 600;
 } 
 
+.partnerslink {
+  font-weight: 600;
+  color: #0a0a0a;
+}
+
 .jet-picture {
    margin-top: 30px;
 }
+
 
 .senior-picture {
   width: 455px;
@@ -147,12 +165,24 @@ span {
   margin-bottom: 30px;
 }
 
-.pflogo {
-  margin-top: 30px;
+.one83photo {
+  width: 700px;
+  display: block;
+  margin: 15px auto;
+}
+
+.realestate {
+  display: block;
+  margin: 15px auto;
 }
 
 .plaza-pictures {
   margin-top: 30px;
+}
+
+.pf-tombstones {
+  display: block;
+  margin: 15px auto;
 }
 
 /* footer */
