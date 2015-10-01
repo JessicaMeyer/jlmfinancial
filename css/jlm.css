@@ -15,9 +15,9 @@
 /* hero image */
 
 .hero-image {
-  height: 700px;
+  height: 400px;
   width: 100%;
-  background-image:url("https://raw.githubusercontent.com/JessicaMeyer/jlmfinancial/master/img/skyline.jpg");
+  background-image:url("https://raw.githubusercontent.com/JessicaMeyer/jlmfinancial/master/img/skylight.png");
   background-repeat: no-repeat;;
   background-size: cover;
   background-position: center;
@@ -32,7 +32,7 @@
 
 .hero-title {
   color: #FFFFFF;
-  font-size: 25px;
+  font-size: 22px;
   font-family: 'Open Sans', sans-serif;
   font-weight: 600;
 }
@@ -42,17 +42,15 @@
   font-size: 20px;
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
-  width: 100%;
 }
 
 #hero-button {
-  border: 1px solid #FFFFFF;
-  background-color: #FFFFFF;
-  font-size: 16px;
+  background-color: #dc2028;
+  font-size: 18px;
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
   text-align: center;
-  color: #DC2028;
+  color: #ffffff;
 }
 
 /* about section */
@@ -61,7 +59,7 @@
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
   text-align: center;
-  margin-top: 35px;
+  margin-top: 30px;
 }
 
 /* portfolio section */
